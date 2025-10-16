@@ -1,0 +1,24 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# IDEs
+.vscode/
+.idea/
+
+# Other
+*.DS_Store
+
+# Database files
+db/
+db2/
+db3/
+db4/
+
+# Data files
+*.pdf
+*.ipynb
